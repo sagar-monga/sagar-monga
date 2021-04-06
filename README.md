@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-004D80?logo=visual-studio-code&logoColor=007ACC" height=28/>
+
 
 [![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-monga&count_private=true&show_icons=true&bg_color=45,642B73,C6426E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=16.0&include_all_commits=true)](https://github.com/sagar-monga/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-monga&layout=compact&hide=makefile&langs_count=6&bg_color=45,642B73,C6426E&title_color=ffffff&text_color=ffffff&border_radius=16.0)](https://github.com/sagar-monga/github-readme-stats)
