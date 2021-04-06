@@ -1,3 +1,7 @@
+<p>
+ <img  width="1000" height="400" src="images/AnimatedNameBanner.gif">
+</p>
+
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300' >
 
 ### Hi There! 👋
