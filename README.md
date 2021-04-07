@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+
+
 ### Languages & Frameworks 💻
 
 <p float="left">
@@ -36,6 +38,6 @@ Here are some ideas to get you started:
 
 ### My Stats 🧮
 
-[![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-monga&count_private=true&show_icons=true&bg_color=45,642B73,C6426E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=16.0&include_all_commits=true)](https://github.com/sagar-monga/github-readme-stats)
+[![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-monga&count_private=true&show_icons=true&bg_color=45,642B73,C6426E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=16.0&include_all_commits=true&hide_border=true)](https://github.com/sagar-monga/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-monga&layout=compact&hide=makefile&langs_count=6&bg_color=45,642B73,C6426E&title_color=ffffff&text_color=ffffff&border_radius=16.0)](https://github.com/sagar-monga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-monga&layout=compact&hide=makefile&langs_count=6&bg_color=45,642B73,C6426E&title_color=ffffff&text_color=ffffff&border_radius=16.0&hide_border=true)](https://github.com/sagar-monga/github-readme-stats)
