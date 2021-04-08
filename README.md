@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter Development
 - 🌱 I’m currently improving on Java & DSA
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about my projects & tech
+- 💬 Ask me about my projects & advancements in tech
 - 📫 How to reach me: Reach out on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/sagarmonga)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
